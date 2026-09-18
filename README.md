@@ -2,7 +2,7 @@
 
 # Customer Churn Prediction — LBG Data Science & Analytics
 
-End-to-end machine learning project that predicts **customer churn** — identifying customers who are at risk of leaving from banking/customer data across demographics, transactions, service interactions, and online activity.
+End-to-end machine learning project that predicts **customer churn** identifying customers who are at risk of leaving from banking/customer data across demographics, transactions, service interactions, and online activity.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-blue?style=flat-square)
